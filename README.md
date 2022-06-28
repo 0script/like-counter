@@ -1,4 +1,4 @@
-#drag-drop
+#like-counter
 
 ##Table of content
 * [About the project](#about-the-project)
